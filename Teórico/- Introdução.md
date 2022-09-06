@@ -1,4 +1,7 @@
 # Mongo DB  
+
+O MongoDB nasceu em 2007, a partir de uma necessidade de três desenvolvedores de software que não encontraram nenhum banco de dados que suprisse os requisitos do seu projeto. Em 2009, esse projeto se tornou Open Source e continuou sua evolução até abrir capital em 2017. Desde então, a MongoDB vem liderando o mercado de bancos de dados NoSQL, oferecendo um produto Open Source com várias funcionalidades para o mercado corporativo, através da sua versão Enterprise.
+O MongoDB vem evoluindo muito rapidamente desde sua criação.  
   
 ## Particularidades do NoSQL  
 Nos bancos de dados relacionais, como o MySQL, o conceito **ACID (Atomicity, Consistency, Isolation, Durability)** é utilizado como base, porém, nos bancos de dados NoSQL, outro conceito é utilizado: o **BASE (Base Availability, Soft State and Eventually Consistent).**  
