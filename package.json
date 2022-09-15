@@ -1,0 +1,23 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Repositório para estudos do Mongo DB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondion/Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ondion/Mongo/issues"
+  },
+  "homepage": "https://github.com/Ondion/Mongo#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  }
+}
